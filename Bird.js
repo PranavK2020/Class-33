@@ -4,6 +4,7 @@ class Bird extends BaseClass {
     this.image = loadImage("sprites/bird.png");
     this.smokeImage = loadImage("sprites/smoke.png");
     this.trajectory =[];
+    
   }
 
   display() {
